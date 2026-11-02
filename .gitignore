@@ -241,8 +241,6 @@ __pycache__/
 data/raw/*
 !data/raw/.gitkeep
 
-# Dataset tratado exigido pelo app: manter local enquanto a redistribuição não for confirmada.
-data/clean/cf_products_with_retailers.csv
 # Outros arquivos em data/clean/ podem ser versionados conforme necessário.
 
 # Skills do Streamlit (symlinks para o venv; cada aluno roda `streamlit skills`)

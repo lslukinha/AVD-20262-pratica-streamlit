@@ -1,0 +1,923 @@
+Brand,All_vegan,Partial_vegan,Bad_parent_company,Black_owned,Ulta,Sephora,Beauty_Bay,Cult_Beauty,Nordstrom,total_retailers,total_retailers_log
+100% Pure,False,False,False,False,0,0,0,0,0,0,0.0
+100BON,True,False,False,False,0,0,0,0,0,0,0.0
+1121 Apothecary,True,False,False,False,0,0,0,0,0,0,0.0
+21 Drops,True,False,False,False,0,0,0,0,0,0,0.0
+2B,False,False,False,False,0,0,0,0,0,0,0.0
+2nd KIND,True,False,False,False,0,0,0,0,0,0,0.0
+"7 Virtues, The",True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+8 Greens,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+A Girl’s Gotta Spa,True,False,False,False,0,0,0,0,0,0,0.0
+ABBA Pure Performance Hair Care,False,False,True,False,0,0,0,0,0,0,0.0
+AG Hair,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+AG Hair Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+AILA Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+AURIC,False,False,False,False,0,0,0,0,0,0,0.0
+AYRES,True,False,False,False,0,0,0,0,0,0,0.0
+AZATURE,True,False,False,False,0,0,0,0,0,0,0.0
+About Face,True,False,False,False,0,0,0,0,0,0,0.0
+Ace Beaute,False,False,False,True,0,0,0,0,0,0,0.0
+Acid-2-Alkaline,True,False,False,False,0,0,0,0,0,0,0.0
+Activist Skincare,True,False,False,False,0,0,0,0,0,0,0.0
+Acure,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Adorn Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Adwoa Beauty,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Aether Lashes,True,False,False,False,0,0,0,0,0,0,0.0
+Aeva Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+Afrocenchix,True,False,False,True,0,0,0,0,0,0,0.0
+Ageless Derma,False,False,False,False,0,0,0,0,0,0,0.0
+Ahimsa Naturals,True,False,False,False,0,0,0,0,0,0,0.0
+Ainhoa Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Akamai,True,False,False,False,0,0,0,0,0,0,0.0
+Alaska Glacial Mud Co.,False,False,False,False,0,0,0,0,0,0,0.0
+Alba Botanica,False,False,False,False,0,0,0,0,0,0,0.0
+Aldi,False,False,False,False,0,0,0,0,0,0,0.0
+Alexami,False,False,False,False,0,0,0,0,0,0,0.0
+Alima Pure,False,False,False,False,0,0,0,0,1,1,0.6931471805599453
+"All Natural Face, The",True,False,False,False,0,0,0,0,0,0,0.0
+All Terrain,False,False,False,False,0,0,0,0,0,0,0.0
+Alma Botanicals,False,False,False,False,0,0,0,0,0,0,0.0
+Alo Glow System,True,False,False,False,0,0,0,0,0,0,0.0
+Alpyn Beauty,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Ambre Blends,False,False,False,False,0,0,0,0,0,0,0.0
+Amika,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Amopé,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Anastasia Beverly Hills,False,False,False,False,1,1,1,1,1,5,1.791759469228055
+Andalou Naturals,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Anita Grant,False,False,False,True,0,0,0,0,0,0,0.0
+Annabelle Minerals,False,False,False,False,0,0,0,0,0,0,0.0
+Annmarie Gianni Skin Care,False,False,False,False,0,0,0,0,0,0,0.0
+Antipodes,False,False,False,False,0,0,0,0,0,0,0.0
+Antonym,False,False,False,False,0,1,0,0,1,2,1.0986122886681096
+Antonym Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Apoterra Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Apothecary 90291,False,False,False,False,0,0,0,0,0,0,0.0
+Aquis,False,False,False,False,1,1,0,0,1,3,1.3862943611198906
+Arbonne,True,False,False,False,0,0,0,0,0,0,0.0
+Arctic Fox,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Ardell,False,False,False,False,1,0,1,0,0,2,1.0986122886681096
+"Argan Tree, The",False,False,False,False,0,0,0,0,0,0,0.0
+Ariana Grande Fragrances,False,False,False,False,0,0,0,0,0,0,0.0
+Aromi,True,False,False,False,0,0,0,0,0,0,0.0
+Art Naturals,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Aster + Bay,False,False,False,False,0,0,0,0,0,0,0.0
+Astonish Cleaning Products,True,False,False,False,0,0,0,0,0,0,0.0
+Athar’a,True,False,False,False,0,0,0,0,0,0,0.0
+Athena Club,False,False,False,False,0,0,0,0,0,0,0.0
+Athr Beauty (formerly Aether Beauty),True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Au Naturale,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Aubrey Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Aunt Fannie’s,False,False,False,False,0,0,0,0,0,0,0.0
+Aura Cacia,False,False,False,False,0,0,0,0,0,0,0.0
+Auromere,False,False,False,False,0,0,0,0,0,0,0.0
+Authentic Beauty Concept,True,False,False,False,0,0,0,0,0,0,0.0
+Avalon Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Aveda,True,False,True,False,0,1,0,0,1,2,1.0986122886681096
+Awake Beauty,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Axiology,True,False,False,False,1,0,0,0,1,2,1.0986122886681096
+Aya Natural,True,False,False,False,0,0,0,0,0,0,0.0
+Azelique Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+B. by Superdrug,False,False,False,False,0,0,0,0,0,0,0.0
+BH Cosmetics,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+BYBI Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Babo Botanicals,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Babyliss,False,False,False,False,0,0,0,0,0,0,0.0
+Bach Original Flower Remedies,False,False,False,False,0,0,0,0,0,0,0.0
+Baiser Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Balanced Guru,False,False,False,False,0,0,0,0,0,0,0.0
+Balm Balm,False,False,False,False,0,0,0,0,0,0,0.0
+"Balm, The",False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Bare Bones Body Care,True,False,False,False,0,0,0,0,0,0,0.0
+Bare Republic,False,False,False,False,0,0,0,0,0,0,0.0
+Barefaced Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Barely Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Barry M,False,False,False,False,0,0,0,0,0,0,0.0
+Bask & Co,True,False,False,False,0,0,0,0,0,0,0.0
+Bask Suncare,True,False,False,False,0,0,0,0,0,0,0.0
+"Bath, Body, Candle Moments",False,False,False,False,0,0,0,0,0,0,0.0
+Bdellium Tools,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Beast,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Beautisol,True,False,False,False,0,0,0,0,0,0,0.0
+Beauty Bakerie,False,False,False,True,1,0,0,0,0,1,0.6931471805599453
+Beauty Bay,False,False,False,False,0,0,0,0,0,0,0.0
+Beauty By Stony,False,False,False,True,0,0,0,0,0,0,0.0
+"Beauty Chef, The",False,False,False,False,0,1,1,1,0,3,1.3862943611198906
+Beauty Without Cruelty,True,False,False,False,0,0,0,0,0,0,0.0
+Beauty by Earth,False,False,False,False,0,0,0,0,0,0,0.0
+BeautyStat Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Beautycounter,False,False,False,False,0,0,0,0,0,0,0.0
+Bedrock & Bloom,True,False,False,False,0,0,0,0,0,0,0.0
+Bella Mari,True,False,False,False,0,0,0,0,0,0,0.0
+BellaPierre,False,False,False,False,0,0,0,0,0,0,0.0
+Ben Nye Makeup,False,False,False,False,0,0,0,0,0,0,0.0
+Besamé Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Biconi,False,False,False,False,0,0,0,0,0,0,0.0
+Bili Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Billie,True,False,False,False,0,0,0,0,0,0,0.0
+Bio Follicle,True,False,False,False,0,0,0,0,0,0,0.0
+Bio Ionic,False,False,False,False,1,1,0,1,1,4,1.6094379124341003
+BioClarity,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Biokleen,True,False,False,False,0,0,0,0,0,0,0.0
+Biom,False,False,False,False,0,0,0,0,0,0,0.0
+Bite Beauty,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Black Dahlia Lacquer,True,False,False,False,0,0,0,0,0,0,0.0
+Black Moon Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Black Phoenix Alchemy Lab,False,False,False,False,0,0,0,0,0,0,0.0
+Blackbird Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Blinc,False,False,False,False,0,1,1,0,0,2,1.0986122886681096
+Bliss,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Blissoma,False,False,False,False,0,0,0,0,0,0,0.0
+Blu Ink Nail Lacquer,True,False,False,False,0,0,0,0,0,0,0.0
+Blue Beautifly,True,False,False,False,0,0,0,0,0,0,0.0
+Blue Labelle,True,False,False,False,0,0,0,0,0,0,0.0
+"Body Shop, The",False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+"Bold Brand, The",False,False,False,True,0,0,0,0,0,0,0.0
+Bon Ami,False,False,False,False,0,0,0,0,0,0,0.0
+Bonne Belle,False,False,False,False,0,0,0,0,0,0,0.0
+Borika Body,True,False,False,False,0,0,0,0,0,0,0.0
+Boscia,False,False,False,False,1,1,0,0,0,2,1.0986122886681096
+Bossy Cosmetics (Bossy Lipstick),False,False,False,True,0,0,0,0,0,0,0.0
+Botanic Organic,False,False,False,False,0,0,0,0,0,0,0.0
+Box Naturals,True,False,False,False,0,0,0,0,0,0,0.0
+Brianna’s Handmade Soap,True,False,False,False,0,0,0,0,0,0,0.0
+Bright Planet,False,False,False,False,0,0,0,0,0,0,0.0
+Briogeo,False,False,True,False,1,0,0,1,0,2,1.0986122886681096
+Bronze Buffer,True,False,False,False,0,0,0,0,0,0,0.0
+Buddha Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Bulldog Skincare for Men,True,False,False,False,0,0,0,0,0,0,0.0
+Burke & Hare Co,True,False,False,False,0,0,0,0,0,0,0.0
+Burst Oral Care,True,False,False,False,0,0,0,0,0,0,0.0
+Burt’s Bees,False,False,True,False,1,1,0,0,0,2,1.0986122886681096
+Buxom,False,False,True,False,1,1,0,0,1,3,1.3862943611198906
+Bye Bye Parabens,True,False,False,False,0,0,0,0,0,0,0.0
+CHI,False,False,False,False,0,0,0,0,0,0,0.0
+CLOVE + HALLOW,True,False,False,False,0,0,0,0,0,0,0.0
+COOLA Suncare,False,True,False,False,0,0,0,1,0,1,0.6931471805599453
+COOLA,False,True,False,False,1,1,0,0,1,3,1.3862943611198906
+CORE Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+CORPUS,True,False,False,False,0,0,0,0,0,0,0.0
+CORREXIKO,False,False,False,False,0,0,0,0,0,0,0.0
+COVER FX,True,False,False,False,1,1,1,1,0,4,1.6094379124341003
+COVERGIRL,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+CRUX Supply Co,False,False,False,False,0,0,0,0,0,0,0.0
+CUROXEN,False,False,False,False,0,0,0,0,0,0,0.0
+Cadia,False,False,False,False,0,0,0,0,0,0,0.0
+Cailyn Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Caitlin’s Super Natural,True,False,False,False,0,0,0,0,0,0,0.0
+Cake Beauty,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Caldrea,False,False,True,False,0,0,0,0,0,0,0.0
+Caley Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Caroline’s Dream,False,False,False,False,0,0,0,0,0,0,0.0
+Cate McNabb,False,False,False,False,0,0,0,0,0,0,0.0
+Cedar + Stone,True,False,False,False,0,0,0,0,0,0,0.0
+Ceremonia,True,False,False,False,0,0,0,0,0,0,0.0
+Certain Dri,True,False,True,False,0,0,0,0,0,0,0.0
+Charlotte Tilbury,False,True,False,False,0,1,0,1,1,3,1.3862943611198906
+"Cheeky Panda, The",True,False,False,False,0,0,0,0,0,0,0.0
+Chella,False,False,False,False,0,0,0,0,0,0,0.0
+"Chemistry Brand, The",False,False,True,False,0,0,0,0,0,0,0.0
+Christy Organics,True,False,False,False,0,0,0,0,0,0,0.0
+Ciaté London,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Clarria Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Clutch Nails,True,False,False,False,0,0,0,0,0,0,0.0
+Coco & Eve,False,False,False,False,0,0,0,0,0,0,0.0
+Cocokind,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Cocoon Apothecary,True,False,False,False,0,0,0,0,0,0,0.0
+Cocovit,False,False,False,False,0,0,0,0,0,0,0.0
+Color Club,True,False,False,False,0,0,0,0,0,0,0.0
+ColorProof,True,False,False,False,0,0,0,0,0,0,0.0
+Colorevolution,False,False,False,False,0,0,0,0,0,0,0.0
+ColourPop,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Coloured Raine,False,True,False,False,0,0,1,0,0,1,0.6931471805599453
+Coloured Raine Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Conair,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Concrete Minerals,True,False,False,False,0,0,0,0,0,0,0.0
+Conscious Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Cora,False,False,False,False,0,0,0,0,0,0,0.0
+Counter Culture Clean,True,False,False,False,0,0,0,0,0,0,0.0
+Cowshed,False,False,False,False,0,0,0,0,0,0,0.0
+Crazy Rumors,True,False,False,False,0,0,0,0,0,0,0.0
+Creature Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Crispy Brows,False,False,False,False,0,0,0,0,0,0,0.0
+Crystal Body Deodorant,True,False,False,False,0,0,0,0,0,0,0.0
+DEMES/Demes Natural Products,True,False,False,False,0,0,0,0,0,0,0.0
+DN-UNIK,True,False,False,False,0,0,0,0,0,0,0.0
+DSMD Shop,False,False,False,True,0,0,0,0,0,0,0.0
+DUO,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Dahliana Naturals,True,False,False,False,0,0,0,0,0,0,0.0
+Daisy Blue Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+DeVita,True,False,False,False,0,0,0,0,0,0,0.0
+Dear Dahlia,True,False,False,False,0,0,0,0,0,0,0.0
+Dear Self,False,False,False,False,0,0,0,0,0,0,0.0
+Deborah Lippmann,False,False,False,False,0,1,0,0,1,2,1.0986122886681096
+Deciem,False,False,False,False,0,0,0,0,0,0,0.0
+Deco Miami,True,False,False,False,0,0,0,0,0,0,0.0
+DefineMe Fragrance,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Dehiya,True,False,False,True,0,0,0,0,0,0,0.0
+Delectable,True,False,False,False,0,0,0,0,0,0,0.0
+Delight Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+DermOrganic,True,False,False,False,0,0,0,0,0,0,0.0
+Derma E,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Dermablend,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Dermablend Professional,False,False,True,False,0,0,0,0,0,0,0.0
+Dermalogica,False,False,True,False,1,1,0,0,1,3,1.3862943611198906
+Desert Essence,False,False,False,False,0,0,0,0,0,0,0.0
+DevaCurl,False,False,True,False,1,1,0,0,1,3,1.3862943611198906
+Dickinson Brands,False,False,False,False,0,0,0,0,0,0,0.0
+Dimension Nails,True,False,False,True,0,0,0,0,0,0,0.0
+Dirt Don’t Hurt Me,True,False,False,True,0,0,0,0,0,0,0.0
+Doctor Rogers RESTORE,True,False,False,False,0,0,0,0,0,0,0.0
+Dose of Colors,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Dr. Bronner’s,False,False,False,False,0,0,0,0,0,0,0.0
+Dr. Hauschka,False,False,False,False,0,0,0,0,0,0,0.0
+Dr. Roebuck’s,False,False,False,False,1,1,0,1,0,3,1.3862943611198906
+Drainbo,False,False,False,False,0,0,0,0,0,0,0.0
+Drunk Elephant,False,False,True,False,0,1,0,1,0,2,1.0986122886681096
+DryBar,False,False,False,False,1,1,0,0,1,3,1.3862943611198906
+DuWop Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+ECO Minerals,True,False,False,False,0,0,0,0,0,0,0.0
+ELF (Eyes Lips Face/E.L.F.),True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+ENJOY Professional Hair Care,False,False,False,False,0,0,0,0,0,0,0.0
+EO Products,False,False,False,False,0,0,0,0,0,0,0.0
+EOS,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+EOS (Evolution of Smooth),False,False,False,False,0,0,0,0,0,0,0.0
+EVOHE,True,False,False,False,0,0,0,0,0,0,0.0
+EVOLVh,False,False,False,False,0,0,0,0,0,0,0.0
+Earth Friendly Products (ECOS),False,False,False,False,0,0,0,0,0,0,0.0
+Earth Harbor Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+Earth Science Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+Earth Tu Face,False,False,False,False,0,0,0,0,0,0,0.0
+Earthwise Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Ecco Bella,False,False,False,False,0,0,0,0,0,0,0.0
+Eco Lips,False,False,False,False,0,0,0,0,0,0,0.0
+Eco Tan,False,False,False,False,0,0,0,0,0,0,0.0
+Eco Tools,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Eco-Dent,False,False,False,False,0,0,0,0,0,0,0.0
+Elate Clean Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Elixery,True,False,False,False,0,0,0,0,0,0,0.0
+Elizabeth Mott,False,False,False,False,0,0,0,0,0,0,0.0
+Ella + Mila,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Ellis Faas,False,False,False,False,0,0,0,0,0,0,0.0
+Ellovi,True,False,False,False,0,0,0,0,0,0,0.0
+Elysian Nail Lacquer,True,False,False,False,0,0,0,0,0,0,0.0
+EmJ Makeup,True,False,False,False,0,0,0,0,0,0,0.0
+Emani,True,False,False,False,0,0,0,0,0,0,0.0
+Epic Blend,False,False,False,False,0,0,0,0,0,0,0.0
+Epice International,True,False,False,False,0,0,0,0,0,0,0.0
+Espinache,True,False,False,False,0,0,0,0,0,0,0.0
+Essence,False,False,False,False,0,0,0,0,0,0,0.0
+Eu’Genia,False,False,False,True,0,0,0,0,0,0,0.0
+Eva NYC,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Every Man Jack,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Everyday Minerals,True,False,False,False,0,0,0,0,0,0,0.0
+Evologie,False,False,False,False,0,0,0,0,0,0,0.0
+Evolve Organic Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Eye of Horus,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Eye of Horus Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Eylure,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+FAR Botanicals,True,False,False,False,0,0,0,0,0,0,0.0
+FARSALI,True,False,False,False,0,1,0,1,0,2,1.0986122886681096
+Face Atelier,False,False,False,False,0,0,0,0,0,0,0.0
+Face Halo,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Fairy Girl,True,False,False,False,0,0,0,0,0,0,0.0
+Fairypants,False,False,False,False,0,0,0,0,0,0,0.0
+"Fanciful Fox, The- 100% vegan",True,False,False,False,0,0,0,0,0,0,0.0
+Farmacy,False,False,True,False,0,1,0,1,0,2,1.0986122886681096
+Feral Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Festival Face,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+FiOR Minerals,True,False,False,False,0,0,0,0,0,0,0.0
+Flawless Professional Vegan Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Flesh Beauty,False,False,True,False,0,0,0,0,0,0,0.0
+Flo + Theo,True,False,False,False,0,0,0,0,0,0,0.0
+Floral Street,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Flower Beauty,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+For The Biome,False,False,False,False,0,0,0,0,0,0,0.0
+Forager Botanicals,True,False,False,False,0,0,0,0,0,0,0.0
+Forest Creek,False,False,False,False,0,0,0,0,0,0,0.0
+Formulary 55,False,False,False,False,0,0,0,0,0,0,0.0
+Four Sigmatic,False,False,False,False,1,0,0,1,0,2,1.0986122886681096
+Fourth Ray Beauty,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Frank Body,False,True,False,False,1,1,1,1,1,5,1.791759469228055
+Franklin & Whitman,True,False,False,False,0,0,0,0,0,0,0.0
+Freck Beauty,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Fusion of Color Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Fyrinnae,False,False,False,False,0,0,0,0,0,0,0.0
+GLOSS Moderne,True,False,False,False,0,0,0,0,0,0,0.0
+GOSH Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+GXVE Beauty,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+GYV Mesoamerican Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Gabriel Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Gaia Secrets,False,False,False,False,0,0,0,0,0,0,0.0
+Garden of Wisdom,False,False,False,False,0,0,0,0,0,0,0.0
+Garnier,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Geek Chic Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+"Gel Bottle, The -100% vegan",True,False,False,False,0,0,0,0,0,0,0.0
+Gerard Cosmetics,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Giovanni,False,False,False,False,0,0,0,0,0,0,0.0
+GladRags,False,False,False,False,0,0,0,0,0,0,0.0
+Glamlite,False,False,False,True,0,0,0,0,0,0,0.0
+Glow Recipe,False,False,False,False,0,0,0,0,0,0,0.0
+Glowoasis,True,False,False,False,0,0,0,0,0,0,0.0
+"Gnarly Whale, The",False,False,False,False,0,0,0,0,0,0,0.0
+Goby,False,False,False,False,0,0,0,0,0,0,0.0
+Goddess Garden Organics,True,False,False,False,0,0,0,0,0,0,0.0
+Goli Nutrition,False,False,False,False,0,0,0,0,0,0,0.0
+Good Chemistry,True,False,False,False,0,0,0,0,0,0,0.0
+Good Dye Young,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Good Molecules,False,False,False,False,0,0,0,0,0,0,0.0
+Grace & Stella,True,False,False,False,0,0,0,0,0,0,0.0
+Green & Gorgeous Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Green Beaver,False,False,False,False,0,0,0,0,0,0,0.0
+Green People,False,False,False,False,0,0,0,0,0,0,0.0
+Green Tidings,True,False,False,False,0,0,0,0,0,0,0.0
+Green Virgin Products,False,False,False,False,0,0,0,0,0,0,0.0
+Gressa,False,False,False,False,0,0,0,0,0,0,0.0
+Grove Collaborative,False,False,False,False,0,0,0,0,0,0,0.0
+Gwen’s Blends,False,False,False,False,0,0,0,0,0,0,0.0
+HAN Skincare Cosmetics,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+HAN Skincare Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Habit Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Hain Celestial,False,False,False,False,0,0,0,0,0,0,0.0
+Hand in Hand Soap,True,False,False,False,0,0,0,0,0,0,0.0
+Handmade Heroes,True,False,False,False,0,0,0,0,0,0,0.0
+Harvey Prince,True,False,False,False,0,0,0,0,0,0,0.0
+Hask,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Healanah,True,False,False,False,0,0,0,0,0,0,0.0
+Hello Products,True,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Hempz,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Herbal Choice Mari,True,False,False,False,0,0,0,0,0,0,0.0
+Herbal-Medi-Care,True,False,False,False,0,0,0,0,0,0,0.0
+Herban Cowboy,False,False,False,False,0,0,0,0,0,0,0.0
+Herbivore,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Heritage Store,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Hero Cosmetics (also known as Mighty Patch),False,False,False,False,0,0,0,0,0,0,0.0
+HiSmile,True,False,False,False,0,0,0,0,0,0,0.0
+High Endurance Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Homemade Betty,True,False,False,False,0,0,0,0,0,0,0.0
+"Honey Pot Co, The",False,False,False,True,0,0,0,0,0,0,0.0
+Honeybee Gardens,False,False,False,False,0,0,0,0,0,0,0.0
+Hot Tresses,True,False,False,False,0,0,0,0,0,0,0.0
+Hourglass Cosmetics,False,True,True,False,1,1,0,1,1,4,1.6094379124341003
+Hourglass,False,True,True,False,0,0,0,0,0,0,0.0
+House of Lashes,False,False,False,False,1,0,1,0,0,2,1.0986122886681096
+Hugo Naturals,True,False,False,False,0,0,0,0,0,0,0.0
+Hum Nutrition,False,False,False,False,0,1,0,0,1,2,1.0986122886681096
+Hurraw!,True,False,False,False,0,0,0,0,0,0,0.0
+Hylamide,False,False,True,False,0,0,0,0,0,0,0.0
+Hynt Beauty,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+I Heart Revolution,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+IGK,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+IGK -100% vegan,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+IME Natural Perfume,True,False,False,False,0,0,0,0,0,0,0.0
+INIKA,True,False,False,False,0,0,0,0,0,0,0.0
+If You Care,False,False,False,False,0,0,0,0,0,0,0.0
+Illume,False,False,False,False,0,0,0,0,0,0,0.0
+Illuminare Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Imayla Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Indie Blends,True,False,False,False,0,0,0,0,0,0,0.0
+Indie Lee,False,False,False,False,1,1,0,1,1,4,1.6094379124341003
+Indigo Wild,False,False,False,False,0,0,0,0,0,0,0.0
+"Inkey List, The",False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Inkling Scents,False,False,False,False,0,0,0,0,0,0,0.0
+Innate Organic Body,True,False,False,False,0,0,0,0,0,0,0.0
+Inoar,False,False,False,False,0,0,0,0,0,0,0.0
+Insert Name Here,False,False,False,False,0,0,0,0,0,0,0.0
+Intelligent Nutrients,False,False,False,False,0,0,0,0,0,0,0.0
+IsaDora,False,False,False,False,0,0,0,0,0,0,0.0
+Isle of Paradise,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+It’s a 10,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+J.R. Watkins,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Jacq’s,True,False,False,False,0,0,0,0,0,0,0.0
+Jane Carter Solution,True,False,False,True,0,0,0,0,0,0,0.0
+Jane Iredale,False,False,False,False,1,0,0,0,1,2,1.0986122886681096
+Jason Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+JaxKelly,False,False,False,False,0,0,0,0,0,0,0.0
+Jecca Black/Jecca Makeup,True,False,False,False,0,0,0,0,0,0,0.0
+Jeffree Star Cosmetics,True,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Jillian Wright Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Jing Ai,False,False,False,False,0,0,0,0,0,0,0.0
+Jivi,True,False,False,False,0,0,0,0,0,0,0.0
+Johnny Concert,True,False,False,False,0,0,0,0,0,0,0.0
+Jordana,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Joshik Polish,True,False,False,False,0,0,0,0,0,0,0.0
+Josie Maran,False,False,False,False,1,1,0,0,0,2,1.0986122886681096
+Josie Maran Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Jouer,False,True,False,False,0,0,0,0,1,1,0.6931471805599453
+Jouer Cosmetics,False,True,False,False,0,1,1,1,0,3,1.3862943611198906
+Joëlle Ciocco Paris,False,False,False,False,0,0,0,0,0,0,0.0
+Juice Beauty,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Jusu Body,False,False,False,False,0,0,0,0,0,0,0.0
+KHUS+KHUS modern herbal fusion,False,False,False,False,0,0,0,0,0,0,0.0
+KKW Beauty,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+KKW Fragrance,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+KORA Organics,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+KORRES,False,False,False,False,1,1,0,0,0,2,1.0986122886681096
+KPS Essentials,False,False,False,False,0,0,0,0,0,0,0.0
+KVD Beauty (formerly KVD Vegan Beauty and Kat Von D Beauty),True,False,False,False,1,1,0,0,0,2,1.0986122886681096
+Leahlani Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+KVoss,True,False,False,False,0,0,0,0,0,0,0.0
+KYPRIS,False,False,False,False,0,0,0,0,1,1,0.6931471805599453
+Kaeng Raeng,True,False,False,False,0,0,0,0,0,0,0.0
+Kahina Giving Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Kaia Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+Kalon Kosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Kani Botanicals,True,False,False,False,0,0,0,0,0,0,0.0
+Kaplan MD Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Kapuluan Coconut,False,False,False,False,0,0,0,0,0,0,0.0
+Kate Ryan Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Katherine Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Kavella Haircare,True,False,False,False,0,0,0,0,0,0,0.0
+Kelley Quan,True,False,False,False,0,0,0,0,0,0,0.0
+Kester Black,True,False,False,False,0,0,0,0,0,0,0.0
+Kett Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Key West Aloe,True,False,False,False,0,0,0,0,0,0,0.0
+Keys Soulcare,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Kimberly Parry Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Kinship,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Kirei Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Kiss My Face,False,False,False,False,0,0,0,0,0,0,0.0
+Kitaka of London,False,False,False,True,0,0,0,0,0,0,0.0
+Kitsch,True,False,False,False,1,1,1,0,0,3,1.3862943611198906
+Klarity Kosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Klo Organic Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Kneipp,False,False,False,False,0,0,0,0,0,0,0.0
+Ko & Humble,True,False,False,False,0,0,0,0,0,0,0.0
+Koh Gen Do,False,False,False,False,0,1,0,0,1,2,1.0986122886681096
+Kopari,False,True,False,False,1,1,0,1,1,4,1.6094379124341003
+Kopari Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Kosas,False,False,False,False,0,1,0,1,1,3,1.3862943611198906
+Kosas Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Kosia,True,False,False,False,0,0,0,0,0,0,0.0
+Krave Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Kristin Ess,False,False,False,False,0,0,0,0,0,0,0.0
+Kylie Cosmetics,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Kylie Skin,True,False,True,False,1,0,0,0,1,2,1.0986122886681096
+LAIA Skincare,True,False,False,False,0,0,0,0,0,0,0.0
+LAVANILA,False,False,False,False,1,1,0,0,0,2,1.0986122886681096
+LH Cosmetics (Linda Hallberg Cosmetics),False,False,False,False,0,0,0,0,0,0,0.0
+LVX,True,False,False,False,0,0,0,0,0,0,0.0
+LXMI,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+LYS Beauty,True,False,False,True,0,1,0,0,0,1,0.6931471805599453
+La Couleur Couture (LACC),True,False,False,False,0,0,0,0,0,0,0.0
+La Fresh Eco Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Lalila Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Lamain Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+Lamik Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+Lather,False,False,False,False,0,0,0,0,0,0,0.0
+Laurel Whole Plant Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Lauren B. Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Lauren Brooke Cosmetiques,False,False,False,False,0,0,0,0,0,0,0.0
+Laurmé Skin Care,False,False,False,False,0,0,0,0,0,0,0.0
+Lawless,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Leaf People,False,False,False,False,0,0,0,0,0,0,0.0
+Legendary Apothecary,True,False,False,False,0,0,0,0,0,0,0.0
+Leilano Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+Lethal Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Let’s Put a Bird On It,True,False,False,False,0,0,0,0,0,0,0.0
+Lewin & Reilly,False,False,False,False,0,0,0,0,0,0,0.0
+Light Mountain Natural Hair Color,True,False,False,False,0,0,0,0,0,0,0.0
+Lily Lolo,False,False,False,False,0,0,0,0,0,0,0.0
+Lime Crime,True,False,False,False,1,0,0,1,1,3,1.3862943611198906
+Lina Hanson,True,False,False,False,0,0,0,0,0,0,0.0
+Linda Hallberg Cosmetics,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Lip Glosserie,True,False,False,False,0,0,0,0,0,0,0.0
+Lippy Girl,False,False,False,False,0,0,0,0,0,0,0.0
+Little Moon Essentials,False,False,False,False,0,0,0,0,0,0,0.0
+Live Tinted,True,False,False,False,0,0,0,0,0,0,0.0
+Loa Skin Care,True,False,False,False,0,0,0,0,0,0,0.0
+Logona,False,False,True,False,0,0,0,0,0,0,0.0
+LolaVie,True,False,False,False,0,0,0,0,0,0,0.0
+Loola Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Lord & Berry,False,False,False,False,0,0,0,0,0,0,0.0
+Lotus Wei,False,False,False,False,0,0,0,0,0,0,0.0
+Lovegrove Essentials,True,False,False,False,0,0,0,0,0,0,0.0
+Lovesong Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Lovetica Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Loving Tan,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Lulu Blossom,False,False,False,False,0,0,0,0,0,0,0.0
+Luna Nectar,False,False,False,False,0,0,0,0,0,0,0.0
+Luna Oil Organics,True,False,False,False,0,0,0,0,0,0,0.0
+LunatiCK Cosmetic Labs,True,False,False,False,0,0,0,0,0,0,0.0
+Lunette,True,False,False,False,0,0,0,0,0,0,0.0
+Luscious Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Lush,False,False,False,False,0,0,0,0,0,0,0.0
+Lust Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+"Luv Scrub, The",False,False,False,True,0,0,0,0,0,0,0.0
+Luxie Beauty,True,False,False,False,0,0,1,0,0,1,0.6931471805599453
+MAHALO Skin Care,False,False,False,False,0,0,0,0,0,0,0.0
+MAYA Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+MERIT Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+MOGI MOUSSE,True,False,False,False,0,0,0,0,0,0,0.0
+MOMMA (Ministry of Mineral Makeup Australia),True,False,False,False,0,0,0,0,0,0,0.0
+MOTD Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+MOX? (Moxe Aromatherapy),False,False,False,False,0,0,0,0,0,0,0.0
+MUN,True,False,False,False,0,0,0,0,0,0,0.0
+MV Organic Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Mabrook & Co,False,False,False,False,0,0,0,0,0,0,0.0
+Mad Hippie,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Madam Glam,False,False,False,False,0,0,0,0,0,0,0.0
+Made From Earth,False,False,False,False,0,0,0,0,0,0,0.0
+Made Simple Skincare,True,False,False,False,0,0,0,0,0,0,0.0
+Mai Couture,False,False,False,False,0,0,0,0,0,0,0.0
+Maison Meunier,True,False,False,False,0,0,0,0,0,0,0.0
+Makeup Addiction Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Makeup Eraser,True,False,False,False,1,1,0,0,1,3,1.3862943611198906
+Makeup Geek,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Makeup Revolution,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Makeup by Mario,False,False,False,False,0,0,0,0,0,0,0.0
+Malaya Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Manic Panic,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Maple Holistics,False,False,False,False,0,0,0,0,0,0,0.0
+Marc Jacobs Beauty,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Marcelle,False,False,False,False,0,0,0,0,0,0,0.0
+Maria Nila,False,False,False,False,0,0,0,0,0,0,0.0
+Marie Hunter Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+Marie Natie,False,False,False,False,0,0,0,0,0,0,0.0
+Marie Veronique,False,False,False,False,0,0,0,0,0,0,0.0
+Mario Badescu,False,False,False,False,1,0,1,0,1,3,1.3862943611198906
+Marks & Spencer,False,False,False,False,0,0,0,0,0,0,0.0
+Marnie’s Body Care,False,False,False,False,0,0,0,0,0,0,0.0
+Maréna Beauté,False,False,False,True,0,0,0,0,0,0,0.0
+Maxim,False,False,False,False,0,0,0,0,0,0,0.0
+May Lindstrom Skin,False,False,False,False,0,0,0,0,0,0,0.0
+Me & You,True,False,False,False,0,0,0,0,0,0,0.0
+Meant,False,False,False,False,0,0,0,0,0,0,0.0
+Mei Yin Naturopathics,True,False,False,False,0,0,0,0,0,0,0.0
+Melanie Mills Hollywood,False,False,False,False,0,0,0,0,0,0,0.0
+Mellow Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Melt Cosmetics,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Mented Cosmetics,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Mented Cosmetics,True,False,False,True,0,0,0,0,0,0,0.0
+Meow Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Meow Meow Tweet,True,False,False,False,0,0,0,0,0,0,0.0
+Metamour Skin Care,True,False,False,False,0,0,0,0,0,0,0.0
+Method,True,False,True,False,0,0,0,0,0,0,0.0
+Mi-Me,False,False,False,False,0,0,0,0,0,0,0.0
+Michael Lorin Reed,True,False,False,False,0,0,0,0,0,0,0.0
+Michael Todd,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Milani,False,True,False,False,1,0,1,0,0,2,1.0986122886681096
+Milk Makeup,True,False,False,False,0,1,0,1,0,2,1.0986122886681096
+Mineral Fusion,False,False,False,False,0,0,0,0,0,0,0.0
+Mineral Hygienics,False,False,False,False,0,0,0,0,0,0,0.0
+Mirenesse,False,False,False,False,0,0,0,0,0,0,0.0
+Mocha Whip,True,False,False,True,0,0,0,0,0,0,0.0
+ModelCo,False,False,False,False,0,0,0,0,0,0,0.0
+Modern Minerals,True,False,False,False,0,0,0,0,0,0,0.0
+Molton Brown,False,False,False,False,0,0,0,0,0,0,0.0
+Moon Juice,False,False,False,False,0,1,0,1,1,3,1.3862943611198906
+Moon Luv,True,False,False,False,0,0,0,0,0,0,0.0
+Moroccanoil,False,False,False,False,0,0,0,0,1,1,0.6931471805599453
+Mountain Rose Herbs,False,False,False,False,0,0,0,0,0,0,0.0
+Mrs. Meyer’s Clean Day,False,False,True,False,0,0,0,0,0,0,0.0
+Mullein & Sparrow,False,False,False,False,0,0,0,0,0,0,0.0
+Murad,False,False,True,False,1,1,0,0,1,3,1.3862943611198906
+My Daughter Fragrances,False,False,False,False,0,0,0,0,0,0,0.0
+My Konjac Sponge,True,False,False,False,0,0,0,0,0,0,0.0
+My Pretty Zombie,False,False,False,False,0,0,0,0,0,0,0.0
+MyChelle Dermaceuticals,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+NABLA,False,False,False,False,1,0,1,0,0,2,1.0986122886681096
+NCLA,True,False,False,False,0,0,0,1,1,2,1.0986122886681096
+NCLA Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+NIOD,False,False,True,False,0,0,0,0,0,0,0.0
+NIU BODY,True,False,False,False,0,0,0,0,0,0,0.0
+NOTE Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+NVEY Eco,False,False,False,False,0,0,0,0,0,0,0.0
+NYL,True,False,False,False,0,0,0,0,0,0,0.0
+NYX,False,True,True,False,1,0,0,1,0,2,1.0986122886681096
+Nad’s Natural,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Nanshy,True,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Napoleon Perdis,False,False,False,False,0,0,0,0,0,0,0.0
+Nash + Pino,True,False,False,True,0,0,0,0,0,0,0.0
+Natio,False,False,False,False,0,0,0,0,0,0,0.0
+NatraCare,True,False,False,False,0,0,0,0,0,0,0.0
+Natura,False,False,False,False,0,0,0,0,0,0,0.0
+Natural Glow Sunless Tanning,False,False,False,False,0,0,0,0,0,0,0.0
+Natural Scentzations,True,False,False,False,0,0,0,0,0,0,0.0
+Nature’s Gate,True,False,False,False,0,0,0,0,0,0,0.0
+Naturopathica,False,False,False,False,0,0,0,0,0,0,0.0
+Neal’s Yard Remedies,False,False,False,False,0,0,0,0,0,0,0.0
+Necromancy Cosmetica,True,False,False,False,0,0,0,0,0,0,0.0
+Nelson Naturals,True,False,False,False,0,0,0,0,0,0,0.0
+Nick Chavez Beverly Hills,False,False,False,False,0,0,0,0,0,0,0.0
+Nicole Granato,False,False,False,False,0,0,0,0,0,0,0.0
+No Miss,False,False,False,False,0,0,0,0,0,0,0.0
+Nomad Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Nonie of Beverly Hills,True,False,False,False,0,0,0,0,0,0,0.0
+Nordic Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+North Coast Organics,True,False,False,False,0,0,0,0,0,0,0.0
+Not A Sponge,True,False,False,False,0,0,0,0,0,0,0.0
+Noughty,True,False,False,False,0,0,0,0,0,0,0.0
+Nourish Organic,False,False,False,False,0,0,0,0,0,0,0.0
+Now Foods/Now Products,False,False,False,False,0,0,0,0,0,0,0.0
+NuMe,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Nude & Noir Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Nue Makeup,False,False,False,True,0,0,0,0,0,0,0.0
+Nui,False,False,False,False,0,0,0,0,0,0,0.0
+Nurture My Body,False,False,False,False,0,0,0,0,0,0,0.0
+Nzuri Organics,False,False,False,False,0,0,0,0,0,0,0.0
+O.R.G. Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+OFRA Cosmetics,True,False,False,False,1,0,1,0,0,2,1.0986122886681096
+ONE SEED,True,False,False,False,0,0,0,0,0,0,0.0
+ONNE,True,False,False,False,0,0,0,0,0,0,0.0
+OOO Polish (Triple O Polish),True,False,False,True,0,0,0,0,0,0,0.0
+OPV Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+ORGAID,False,False,False,False,0,0,0,0,0,0,0.0
+ORLY,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+OSEA,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+OSEA Malibu,True,False,False,False,0,0,0,0,0,0,0.0
+OUAI,False,False,True,False,1,1,0,0,0,2,1.0986122886681096
+Odylique,False,False,False,False,0,0,0,0,0,0,0.0
+Ole Henriksen,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Omcali,False,False,False,False,0,0,0,0,0,0,0.0
+Omolewa Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+One Love Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Onesta,False,False,False,False,0,0,0,0,0,0,0.0
+Orchard View Naturals (OV Naturals),True,False,False,False,0,0,0,0,0,0,0.0
+"Ordinary, The",True,False,True,False,1,1,1,1,0,4,1.6094379124341003
+Organic Bath Co,False,False,False,True,0,0,0,0,0,0,0.0
+"Organic Skin Co., The",False,False,False,False,0,0,0,0,0,0,0.0
+Original Human Co,True,False,False,False,0,0,0,0,0,0,0.0
+Oui The People,False,False,False,True,0,0,0,0,0,0,0.0
+Out of Africa,False,False,False,False,0,0,0,0,0,0,0.0
+Overall Beauty Minerals,True,False,False,False,0,0,0,0,0,0,0.0
+Own Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Oxalis Apothecary,False,False,False,False,0,0,0,0,0,0,0.0
+POP Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+PUR Cosmetics,False,True,False,False,1,0,1,0,0,2,1.0986122886681096
+PYT Beauty,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Pacifica,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Pai Skincare,True,False,False,False,0,0,0,0,0,0,0.0
+Palate Polish,True,False,False,False,0,0,0,0,0,0,0.0
+Pangea Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Parasilk,True,False,False,False,0,0,0,0,0,0,0.0
+Parissa,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Patchology,False,True,False,False,1,0,0,1,0,2,1.0986122886681096
+Paul Mitchell,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Paula’s Choice,False,False,True,False,0,1,0,1,1,3,1.3862943611198906
+Peacci,True,False,False,False,0,0,0,0,0,0,0.0
+Peace Out,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Peach & Lily,False,False,False,False,0,0,0,0,0,0,0.0
+Peach Slices,False,False,False,False,0,0,0,0,0,0,0.0
+Pear Nova,True,False,False,True,0,0,0,0,0,0,0.0
+PearlBar,True,False,False,False,0,0,0,0,0,0,0.0
+Pelle Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Peony Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+People of Color Beauty,True,False,False,True,0,0,0,0,0,0,0.0
+Perfekt,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Perricone MD,False,False,False,False,1,1,0,1,1,4,1.6094379124341003
+Personna (shaving razors),False,False,False,False,0,0,0,0,0,0,0.0
+Petal Fresh,False,False,False,False,0,0,0,0,0,0,0.0
+PhytoVitamins,True,False,False,False,0,0,0,0,0,0,0.0
+Piggy Paint,False,False,False,False,0,0,0,0,0,0,0.0
+Piggy Polish,False,False,False,False,0,0,0,0,0,0,0.0
+Pinrose,True,False,False,False,1,0,0,0,1,2,1.0986122886681096
+PiperWai Natural Deodorant,True,False,False,False,0,0,0,0,0,0,0.0
+Pirouette Professionals,True,False,False,False,0,0,0,0,0,0,0.0
+Pixi,False,True,False,False,0,0,0,1,0,1,0.6931471805599453
+Pixi Beauty,False,False,False,False,1,1,0,0,0,2,1.0986122886681096
+Plaine Products,True,False,False,False,0,0,0,0,0,0,0.0
+Plant Apothecary,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Plant Therapy,False,False,False,False,0,0,0,0,0,0,0.0
+Plantioxidants,True,False,False,False,0,0,0,0,0,0,0.0
+Plantlife,False,False,False,False,0,0,0,0,0,0,0.0
+Plume Science,False,False,False,False,0,0,0,0,0,0,0.0
+Possets Perfume,True,False,False,False,0,0,0,0,0,0,0.0
+Practk,False,False,False,False,0,0,0,0,0,0,0.0
+Precious Skin Elixirs,False,False,False,False,0,0,0,0,0,0,0.0
+Preserve,True,False,False,False,0,0,0,0,0,0,0.0
+Previse,False,False,False,False,0,0,0,0,0,0,0.0
+Primark,False,False,False,False,0,0,0,0,0,0,0.0
+Priti NYC,True,False,False,False,0,0,0,0,0,0,0.0
+Profusion Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Promise Organic,False,False,False,False,0,0,0,0,0,0,0.0
+Prospector Co.,False,False,False,False,0,0,0,0,0,0,0.0
+Pur Home Clean,False,False,False,True,0,0,0,0,0,0,0.0
+Puracy,True,False,False,False,0,0,0,0,0,0,0.0
+Pure Chimp,True,False,False,False,0,0,0,0,0,0,0.0
+Pureology,True,False,True,False,1,1,0,1,0,3,1.3862943611198906
+Puristry,True,False,False,False,0,0,0,0,0,0,0.0
+"PÜRE Collection, The",False,False,False,False,0,0,0,0,0,0,0.0
+Qualerex Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+R + Co (R and Co),True,False,False,False,0,0,0,0,0,0,0.0
+R.L. Linden & Co,False,False,False,False,0,0,0,0,0,0,0.0
+RCMA,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+RCMA Makeup,False,False,False,False,0,0,0,0,0,0,0.0
+REN Skincare,False,False,True,False,0,0,0,1,1,2,1.0986122886681096
+RESCUE,False,False,False,False,0,0,0,0,0,0,0.0
+RMS Beauty,False,False,False,False,0,1,1,1,1,4,1.6094379124341003
+Rare El’ements,False,False,False,False,0,0,0,0,0,0,0.0
+Raw Sugar Living,False,False,False,False,0,0,0,0,0,0,0.0
+Real Purity,False,False,False,False,0,0,0,0,0,0,0.0
+Real Simple Clean,False,False,False,False,0,0,0,0,0,0,0.0
+Real Techniques,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Red Apple Lipstick,True,False,False,False,0,0,0,0,0,0,0.0
+Reficis,True,False,False,False,0,0,0,0,0,0,0.0
+Relogy,True,False,False,False,0,0,0,0,0,0,0.0
+Remilia Hair,False,False,False,False,0,0,0,0,0,0,0.0
+Replere,True,False,False,False,0,0,0,0,0,0,0.0
+Reverie,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+RevivaLabs,False,False,False,False,0,0,0,0,0,0,0.0
+Revolution Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Revolution Pro,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Revolution Skin,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Riki Loves Riki,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Rilastil,True,False,False,False,0,0,0,0,0,0,0.0
+Rise & Shine Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+Rituel de Fille,False,False,False,False,1,0,0,1,0,2,1.0986122886681096
+Root,True,False,False,False,0,0,0,0,0,0,0.0
+Root Science,True,False,False,False,0,0,0,0,0,0,0.0
+Rosebud Company,False,False,False,False,0,0,0,0,0,0,0.0
+Rosebud Perfume Co.,False,False,False,False,1,1,0,0,0,2,1.0986122886681096
+Rosemira Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Rouge Bunny Rouge,False,False,False,False,0,0,0,0,0,0,0.0
+Ruba Beauty,False,False,False,True,0,0,0,0,0,0,0.0
+Ruby White Tips,False,False,False,False,0,0,0,0,0,0,0.0
+S.W.Basics,False,False,False,False,0,0,0,0,0,0,0.0
+SIMKHA,True,False,False,True,0,0,0,0,0,0,0.0
+SIRCUIT Skin/SIRCUIT Cosmeceuticals,False,False,False,False,0,0,0,0,0,0,0.0
+SOL Body,True,False,False,False,0,0,0,0,0,0,0.0
+SOPHi by Piggy Paint,False,False,False,False,0,0,0,0,0,0,0.0
+SUGARLOOM Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+SULA NYC,False,False,False,True,0,0,0,0,0,0,0.0
+SVELTA Tan,True,False,False,False,0,0,0,0,0,0,0.0
+Sabreen Cosmetics,True,False,False,True,0,0,0,0,0,0,0.0
+Sahajan,False,False,False,False,0,0,0,0,0,0,0.0
+Saje Natural Wellness,False,False,False,False,0,0,0,0,0,0,0.0
+San Francisco Salt Co,False,False,False,False,0,0,0,0,0,0,0.0
+Sante Natural Cosmetics,False,False,True,False,0,0,0,0,0,0,0.0
+Sanzi Performance Organics,True,False,False,False,0,0,0,0,0,0,0.0
+Sappo Hill Soapworks,True,False,False,False,0,0,0,0,0,0,0.0
+Saturated Colour,False,False,False,False,0,0,0,0,0,0,0.0
+Saya Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Schmidt’s Naturals,True,False,True,False,1,0,0,0,0,1,0.6931471805599453
+SeSpring Skin,True,False,False,False,0,0,0,0,0,0,0.0
+Seed Phytonutrients,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Sensible Organics,False,False,False,False,0,0,0,0,0,0,0.0
+September Rose Co,True,False,False,True,0,0,0,0,0,0,0.0
+Seriously FAB,True,False,False,False,0,0,0,0,0,0,0.0
+Seventh Generation,False,False,True,False,0,0,0,0,0,0,0.0
+Shanel Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Shay & Blue London,True,False,False,False,0,0,0,0,0,0,0.0
+Shea Moisture,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+ShiKai,False,False,False,False,0,0,0,0,0,0,0.0
+Shimirose,True,False,False,True,0,0,0,0,0,0,0.0
+Sibu Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Sienna X,False,False,False,False,0,0,0,0,0,0,0.0
+Sienna Byron Bay,True,False,False,False,0,0,0,0,0,0,0.0
+Sigma,False,False,False,False,0,0,0,1,0,1,0.6931471805599453
+Sigma Beauty,False,False,False,False,0,0,1,0,1,2,1.0986122886681096
+Silk Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+Similisan,False,False,False,False,0,0,0,0,0,0,0.0
+Simple Sugars,False,False,False,False,0,0,0,0,0,0,0.0
+Simplicité Skin Care,True,False,False,False,0,0,0,0,0,0,0.0
+Sir Richards,True,False,False,False,0,0,0,0,0,0,0.0
+Skandinavisk,True,False,False,False,0,0,0,0,0,0,0.0
+Skin Actives Scientific,False,False,False,False,0,0,0,0,0,0,0.0
+Skin Deva,True,False,False,False,0,0,0,0,0,0,0.0
+Skin Dressing,True,False,False,False,0,0,0,0,0,0,0.0
+SkinOwl,True,False,False,False,0,0,0,1,0,1,0.6931471805599453
+Skinchantment,True,False,False,False,0,0,0,0,0,0,0.0
+Sky Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Skylar,True,False,False,False,0,1,0,0,0,1,0.6931471805599453
+Smashbox,False,True,True,False,1,1,0,0,1,3,1.3862943611198906
+Snapwhite,True,False,False,False,0,0,0,0,0,0,0.0
+"Soap Market, The",True,False,False,False,0,0,0,0,0,0,0.0
+Soapbox Soaps,False,False,False,False,0,0,0,0,0,0,0.0
+Soapwalla,False,False,False,False,0,0,0,0,0,0,0.0
+SoapyLayne,True,False,False,False,0,0,0,0,0,0,0.0
+SocialEyes Lashes,True,False,False,False,0,0,0,0,0,0,0.0
+Soffli,True,False,False,False,0,0,0,0,0,0,0.0
+Sol de Janeiro,False,True,True,False,0,1,0,1,0,2,1.0986122886681096
+Sonia Kashuk,False,False,False,False,0,0,0,0,0,0,0.0
+Soultice Spa,True,False,False,False,0,0,0,0,0,0,0.0
+SpaRitual,True,False,False,False,0,0,0,0,0,0,0.0
+Spectrum Collections,True,False,False,False,0,0,0,0,0,0,0.0
+Sphynx,True,False,False,False,0,0,0,0,0,0,0.0
+Sprout Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Spruce & Co,False,False,False,False,0,0,0,0,0,0,0.0
+St. Tropica,True,False,False,False,0,0,0,0,0,0,0.0
+Starlooks,False,False,False,False,0,0,0,0,0,0,0.0
+Starrily,True,False,False,False,0,0,0,0,0,0,0.0
+Stila,False,False,False,False,1,1,1,1,1,5,1.791759469228055
+Stinkbug Naturals,False,False,False,False,0,0,0,0,0,0,0.0
+StriVectin,False,False,False,False,1,0,0,0,1,2,1.0986122886681096
+Strobe Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Styli-Style Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Sugar & Oats,True,False,False,False,0,0,0,0,0,0,0.0
+Sugar Rush by Tarte,True,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Sugarpill,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+Sun and Earth,True,False,False,False,0,0,0,0,0,0,0.0
+Sunday Riley,False,False,False,False,1,1,0,1,1,4,1.6094379124341003
+Suntegrity,True,False,False,False,0,0,0,0,0,0,0.0
+Supa Herbal Greens,True,False,False,False,0,0,0,0,0,0,0.0
+Superdrug,False,False,False,False,0,0,0,0,0,0,0.0
+Supergoop!,False,False,False,False,0,1,0,1,1,3,1.3862943611198906
+Sweat Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Sweet Anthem Perfumes,True,False,False,False,0,0,0,0,0,0,0.0
+Sweet Chef,True,False,False,False,0,0,0,0,0,0,0.0
+Swisspers,False,False,False,False,0,0,0,0,0,0,0.0
+T3,False,False,False,False,1,1,1,0,1,4,1.6094379124341003
+TAY Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+TRESemmé,False,False,True,False,1,0,0,0,0,1,0.6931471805599453
+Tangle Teezer,False,False,False,False,0,0,0,0,0,0,0.0
+Tarte,False,True,True,False,1,1,0,0,0,2,1.0986122886681096
+Tata Harper,False,True,False,False,0,1,0,1,1,3,1.3862943611198906
+Tatcha,False,False,True,False,0,1,0,0,0,1,0.6931471805599453
+Teadora,True,False,False,False,0,0,0,0,0,0,0.0
+Terre Mere Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Thera Wise,True,False,False,False,0,0,0,0,0,0,0.0
+TheraBreath,False,False,False,False,0,0,0,0,0,0,0.0
+Thesis,True,False,False,False,0,0,0,0,0,0,0.0
+Three Main,False,False,False,False,0,0,0,0,0,0,0.0
+Three Ships Beautypai,False,False,False,False,0,0,0,0,0,0,0.0
+Thrive Causemetics,True,False,False,False,0,0,0,0,0,0,0.0
+Tiki Bar Soap,False,False,False,False,0,0,0,0,0,0,0.0
+ToN Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Tomoe Kobo,False,False,False,False,0,0,0,0,0,0,0.0
+Tom’s of Maine,False,False,True,False,0,0,0,0,0,0,0.0
+Too Faced,False,True,True,False,1,1,0,1,1,4,1.6094379124341003
+Topix Pharmaceuticals,False,False,False,False,0,0,0,0,0,0,0.0
+Topshop,False,False,False,False,0,0,0,0,0,0,0.0
+Tower 28,True,False,False,False,0,0,0,0,0,0,0.0
+Trader Joe’s Brand,False,False,False,False,0,0,0,0,0,0,0.0
+Tree Hut,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Tres Pure,False,False,False,False,0,0,0,0,0,0,0.0
+Triumph & Disaster,False,False,False,False,0,0,0,0,0,0,0.0
+Tropic Skincare,True,False,False,False,0,0,0,0,0,0,0.0
+TruSelf Organics,False,False,False,False,0,0,0,0,0,0,0.0
+True Moringa,True,False,False,False,0,0,0,0,0,0,0.0
+True Natural,False,False,False,False,0,0,0,0,0,0,0.0
+Trufora,True,False,False,False,0,0,0,0,0,0,0.0
+Trust Fund Beauty,True,False,False,False,0,0,0,0,0,0,0.0
+Typology,True,False,False,False,0,0,0,0,0,0,0.0
+ULTA,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+URB Apothecary,False,False,False,False,0,0,0,0,0,0,0.0
+Ulta Collection,False,False,False,False,0,0,0,0,0,0,0.0
+Ultrasun,False,False,False,False,0,0,0,0,0,0,0.0
+Uma Oils,True,False,False,False,0,0,0,1,0,1,0.6931471805599453
+Unfiltered By Raw Sugar,False,False,False,False,0,0,0,0,0,0,0.0
+Unsun Cosmetics,False,False,False,True,0,0,0,0,0,0,0.0
+Uoga Uoga,False,False,False,False,0,0,0,0,0,0,0.0
+Uoma Beauty,False,False,False,True,1,0,0,1,0,2,1.0986122886681096
+Urban Decay,False,True,True,False,1,1,0,1,1,4,1.6094379124341003
+Urban Veda,True,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Ursa Major,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+VIRGINIC,True,False,False,False,0,0,0,0,0,0,0.0
+VOLANTE Skincare,False,False,False,False,0,0,0,0,0,0,0.0
+Vanity Planet,False,False,False,False,0,0,0,0,0,0,0.0
+Vapour Organic Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Velvet 59,True,False,False,False,0,0,0,0,0,0,0.0
+Verdant Botanicals,True,False,False,False,0,0,0,0,0,0,0.0
+Versed,True,False,False,False,0,0,0,0,0,0,0.0
+"Vintage Cosmetic Company, The",False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Vitacare,False,False,False,False,0,0,0,0,0,0,0.0
+VoilaVe,False,False,False,False,0,0,0,0,0,0,0.0
+Volition Beauty,False,False,False,False,0,1,0,1,0,2,1.0986122886681096
+W.S. Badger,False,False,False,False,0,0,0,0,0,0,0.0
+W3ll People,False,False,False,False,0,0,0,0,0,0,0.0
+WLKDKAT,True,False,False,False,0,0,0,0,0,0,0.0
+Wabi-Sabi Botanicals,True,False,False,False,0,0,0,0,0,0,0.0
+Waitrose,False,False,False,False,0,0,0,0,0,0,0.0
+Wander Beauty,False,False,False,False,0,1,0,1,1,3,1.3862943611198906
+We Love Eyes,True,False,False,False,0,0,0,0,0,0,0.0
+Weleda,False,False,False,False,0,0,0,0,0,0,0.0
+"Well Organics, The",False,False,False,False,0,0,0,0,0,0,0.0
+Well Scent,True,False,False,False,0,0,0,0,0,0,0.0
+Wellness Prioritized,True,False,False,False,0,0,0,0,0,0,0.0
+Wen by Chaz Dean,False,False,False,False,0,0,0,0,0,0,0.0
+Whole Foods Brand/365,False,False,False,False,0,0,0,0,0,0,0.0
+WildMint Cosmetics,True,False,False,False,0,0,0,0,0,0,0.0
+Wrenn,True,False,False,False,0,0,0,0,0,0,0.0
+XX Revolution,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+Xenca,False,False,False,False,0,0,0,0,0,0,0.0
+Xyrena,True,False,False,False,0,0,0,0,0,0,0.0
+YASOU natural skin care,False,False,False,False,0,0,0,0,0,0,0.0
+YLLO Scrub,True,False,False,False,0,0,0,0,0,0,0.0
+Yaby Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Yarok,False,False,False,False,0,0,0,0,0,0,0.0
+Yes to,False,False,False,False,1,0,1,0,0,2,1.0986122886681096
+Yorba Organics,False,False,False,False,0,0,0,0,0,0,0.0
+Youngblood Mineral Cosmetics,False,False,False,False,0,0,0,0,0,0,0.0
+Youth to the People,True,False,True,False,0,1,0,0,0,1,0.6931471805599453
+Yu-Be,False,False,False,False,0,0,0,0,0,0,0.0
+Z Natural Life,True,False,False,False,0,0,0,0,0,0,0.0
+Z Palette,False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+ZAK Body Care/ZAK Detox Deodorant,False,False,False,False,0,0,0,0,0,0,0.0
+Zabana Essentials,True,False,False,False,0,0,0,0,0,0,0.0
+Zaya Eco Skincare,True,False,False,False,0,0,0,0,0,0,0.0
+Zoella Beauty,False,False,False,False,0,0,0,0,0,0,0.0
+Zoeva,False,False,False,False,1,1,1,1,0,4,1.6094379124341003
+Zoya,False,False,False,False,1,0,0,0,0,1,0.6931471805599453
+ZuZu Luxe,False,False,False,False,0,0,0,0,0,0,0.0
+Zurvita,False,False,False,False,0,0,0,0,0,0,0.0
+Zyderma HS,True,False,False,False,0,0,0,0,0,0,0.0
+bare Minerals,False,True,True,False,1,1,0,0,1,3,1.3862943611198906
+beautyblender,False,False,False,False,1,1,1,1,1,5,1.791759469228055
+bkr,False,False,False,False,0,1,0,0,0,1,0.6931471805599453
+butter LONDON,False,False,False,False,0,0,0,0,1,1,0.6931471805599453
+dermaGEEK,True,False,True,False,0,0,0,0,0,0,0.0
+oVertone,True,False,False,False,0,0,0,0,0,0,0.0
+piCture pOlish,False,False,False,False,0,0,0,0,0,0,0.0
+skyn ICELAND,True,False,False,False,1,0,0,1,0,2,1.0986122886681096
+theBalm (The Balm),False,False,False,False,0,0,1,0,0,1,0.6931471805599453
+washbeautyco. by MaskerAide,True,False,False,False,0,0,0,0,0,0,0.0

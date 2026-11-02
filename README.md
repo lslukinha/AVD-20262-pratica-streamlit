@@ -60,15 +60,15 @@ O comando `streamlit skills --yes`, descrito em “IA neste projeto”, é opcio
 | Pasta | Versionada? | Por quê |
 | --- | --- | --- |
 | `data/raw/` | **Não** (só o `.gitkeep`) | O bruto pode ser grande ou ter dados sensíveis, e o app não o usa. |
-| `data/clean/` | **Seletivamente** | A pasta inteira não é ignorada. O CSV específico usado pelo app fica local e é ignorado enquanto sua licença de redistribuição não estiver confirmada; outros arquivos tratados podem ser versionados após revisão. |
+| `data/clean/` | **Seletivamente** | A pasta inteira não é ignorada. O CSV tratado usado pelo app está versionado para o deploy; outros datasets tratados, como `dataset.csv`, devem ser revisados individualmente antes de versionar. |
 
 ## Dados usados pelo aplicativo
 
-O aplicativo utiliza o dataset **Cruelty Free Brands**, publicado por **mhapich** no [Kaggle](https://www.kaggle.com/datasets/mhapich/crueltyfree-brands). A licença e a autorização para redistribuir o arquivo preparado ainda não foram confirmadas. Por precaução, `data/clean/cf_products_with_retailers.csv` não é incluído no repositório; isso não significa que a licença proíba sua redistribuição.
+O aplicativo utiliza o dataset **Cruelty Free Brands**, publicado por **mhapich** no [Kaggle](https://www.kaggle.com/datasets/mhapich/crueltyfree-brands). Para permitir a execução no Streamlit Community Cloud, `data/clean/cf_products_with_retailers.csv` está incluído no repositório. A licença específica e a autorização de redistribuição ainda não foram confirmadas; a inclusão técnica não confirma esses direitos. Confira os termos da fonte antes de compartilhar ou publicar os dados.
 
 O arquivo local `data/clean/dataset.csv`, quando presente, corresponde ao exemplo Heart Disease/UCI e não é usado pelo app. Não o use como substituto do dataset de cosméticos nem o publique como dado desta aplicação.
 
-Para executar o projeto em outro clone, obtenha os dados na fonte original e disponibilize um CSV preparado e compatível com o aplicativo neste caminho:
+Para preparar uma cópia local a partir da fonte, disponibilize um CSV bruto compatível em `data/raw/cf_products_with_retailers.csv` e execute o notebook conforme os passos abaixo. O CSV tratado usado pelo aplicativo fica em `data/clean/cf_products_with_retailers.csv`:
 
 ```text
 data/clean/cf_products_with_retailers.csv
@@ -86,24 +86,28 @@ Para preparar uma cópia local:
 - `notebooks/eda.ipynb` é a cópia de trabalho e o fluxo de preparação que valida/trata os dados e exporta o CSV consumido pelo aplicativo.
 - `notebooks/arquivo-eda-original.ipynb` e `notebooks/eda-com-downloads.ipynb` são materiais didáticos de referência sobre Heart Disease/UCI. Eles não são a EDA de cosméticos e não preparam o dataset do app.
 
-`notebooks/eda.ipynb` recebeu complementações exploratórias para as métricas do Dashboard 2 e saídas dessas execuções; as análises anteriores foram preservadas. Os demais notebooks foram preservados. O fluxo de `eda.ipynb` precisa de uma cópia local do arquivo de origem em `data/raw/`; sem os dados de entrada e sem o CSV tratado em `data/clean/cf_products_with_retailers.csv`, não é possível reconstruir ou executar o aplicativo em um clone limpo. A execução local com o CSV disponível foi testada; a execução em clone sem o CSV não é suportada até que seja definida uma forma autorizada de obter os dados. A licença específica e os direitos de redistribuição ainda não foram confirmados.
+`notebooks/eda.ipynb` recebeu complementações exploratórias para as métricas do Dashboard 2 e saídas dessas execuções; as análises anteriores foram preservadas. Os demais notebooks foram preservados. O fluxo de `eda.ipynb` precisa de uma cópia local do arquivo de origem em `data/raw/` para reconstruir o CSV tratado. A execução local com o CSV disponível foi testada. A licença específica e os direitos de redistribuição ainda não foram confirmados.
 
-O arquivo de origem precisa ter as colunas esperadas pelo notebook; se a versão obtida for diferente, não renomeie outro dataset para esse caminho: confirme e prepare uma entrada compatível com o fluxo de cosméticos. Sem `data/clean/cf_products_with_retailers.csv`, o carregador não consegue ler os dados e o aplicativo não funciona. Como o arquivo não está no GitHub, um deploy no Streamlit Community Cloud também precisará de uma forma aprovada de disponibilizá-lo em tempo de execução.
+O arquivo de origem precisa ter as colunas esperadas pelo notebook; se a versão obtida for diferente, não renomeie outro dataset para esse caminho: confirme e prepare uma entrada compatível com o fluxo de cosméticos. O carregador precisa do arquivo em `data/clean/cf_products_with_retailers.csv`; o deploy depende de esse caminho existir no repositório publicado ou ser fornecido por outro meio configurado.
 
 São situações distintas: obter e usar o arquivo localmente continua sujeito aos termos da fonte; colocar o arquivo em um repositório privado ainda o compartilha com os usuários autorizados; publicar no GitHub ou disponibilizar o app publicamente amplia o acesso. Nem acesso privado nem uso acadêmico, por si só, confirmam direitos de redistribuição ou publicação. Confirme a licença específica e, se necessário, obtenha autorização do responsável pela fonte antes de compartilhar dados ou resultados derivados publicamente.
 
 ### Antes de versionar outros dados tratados
 
-- **A licença permite redistribuição?** Confirme a licença e a autorização antes de incluir o dataset no GitHub, mesmo em um repositório privado. A privacidade do repositório controla quem acessa o conteúdo, mas não concede autorização para redistribuí-lo. Se a autorização continuar pendente, mantenha o CSV fora do Git e combine uma forma aprovada de disponibilizar os dados para avaliação e execução.
+- **A licença permite redistribuição?** Confirme a licença e a autorização para o dataset incluído no GitHub, mesmo em um repositório privado. A privacidade do repositório controla quem acessa o conteúdo, mas não concede autorização para redistribuí-lo. Se a autorização não for confirmada, combine uma forma aprovada de disponibilizar os dados para avaliação e execução.
 - **Dado sensível** (nomes, CPF, e-mail, telefone, localização exata etc.): remova ou anonimize na EDA, antes de exportar para `data/clean/`. Isso vale mesmo em repositório privado.
 - **Tamanho:** o GitHub rejeita arquivos acima de **100 MB**. Se o CSV tratado for grande, reduza colunas e linhas na EDA ou exporte em Parquet (`df.to_parquet(...)`, exige `pyarrow`).
-- **Revise cada arquivo individualmente:** confirme a origem, licença e necessidade antes de adicioná-lo ao repositório. O CSV do aplicativo citado acima permanece excluído enquanto a redistribuição não for confirmada.
+- **Revise cada arquivo individualmente:** confirme a origem, licença e necessidade antes de adicioná-lo ao repositório. A licença e a autorização de redistribuição do CSV do aplicativo continuam pendentes de confirmação.
 
 ## Passo a passo
 
 O passo a passo detalhado de cada aula (Aulas 21, 22 e 23), com pré-requisitos e objetivos, está em [ROTEIRO.md](ROTEIRO.md). Comece por ele depois do Setup.
 
-**Link do app (Aula 23):** _(preencher após o deploy)_
+## Deploy (Aula 23)
+
+O aplicativo será publicado no Streamlit Community Cloud a partir da branch `main`, com `app.py` como arquivo principal. Após a publicação, registre aqui a URL pública final:
+
+**Link do app:** _(preencher após o deploy; URL no formato `https://<subdominio>.streamlit.app`)_
 
 ## IA neste projeto
 
