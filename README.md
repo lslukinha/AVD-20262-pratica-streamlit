@@ -105,9 +105,9 @@ O passo a passo detalhado de cada aula (Aulas 21, 22 e 23), com pré-requisitos 
 
 ## Deploy (Aula 23)
 
-O aplicativo será publicado no Streamlit Community Cloud a partir da branch `main`, com `app.py` como arquivo principal. Após a publicação, registre aqui a URL pública final:
+O aplicativo foi publicado no Streamlit Community Cloud a partir da branch `main`, com `app.py` como arquivo principal:
 
-**Link do app:** _(preencher após o deploy; URL no formato `https://<subdominio>.streamlit.app`)_
+**Link do app:** [https://avd-20262-pratica-app-yrht4dsbdjzua4ldm94upb.streamlit.app](https://avd-20262-pratica-app-yrht4dsbdjzua4ldm94upb.streamlit.app)
 
 ## IA neste projeto
 
