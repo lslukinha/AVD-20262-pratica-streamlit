@@ -1,52 +1,32 @@
-# entregas/
+# Entregáveis da Entrega 2
 
-Artefatos de entrega que não são sobre uso de IA (isso fica em [`prompts/`](../prompts)). Cada arquivo tem uma função específica na correção. Os rascunhos aceitam `.jpg` ou `.png`. Tudo desta pasta, incluindo as entregas do Dashboard 2 (rascunho + justificativa), deve estar pronto até a Aula 22; a Aula 23 é para finalizar a implementação, fazer o deploy e os ajustes finais.
+Esta pasta reúne os artefatos de análise e visualização. O wireframe do Dashboard 2 é entregue em JPG, como especifica o PDF da Aula 22; a versão PNG de mesmo conteúdo também foi preservada. Imagens antigas de Dashboard 1 ficam preservadas como referência histórica.
 
-| Arquivo                      | Quando    | O que é                                                                                      |
-|-------------------------------|-----------|-----------------------------------------------------------------------------------------------|
-| `rascunho-dashboard1.jpg`/`.png`     | Aula 21   | Foto do rascunho do layout do Dashboard 1, feito antes de codar                               |
-| `rascunho-dashboard2.jpg`/`.png`     | Aula 22   | Mesma ideia, para o Dashboard 2 — desenhado só depois de definir widgets, variáveis e métricas |
-| `justificativa-metricas.md`   | Aula 22   | Por que cada métrica/KPI do Dashboard 2 foi escolhida e o que ela comunica ao público-alvo     |
+## Arquivos atuais
 
-## Checklist — Aula 21
+| Arquivo | Conteúdo | Situação |
+|---|---|---|
+| `rascunho-dashboard1.png` | Wireframe do Dashboard 1 conforme `app.py`: filtros na sidebar, correlação de Spearman, histogramas quantitativos e barras de frequência de `total_retailers`. | Atual |
+| `rascunho-dashboard2.jpg` | Wireframe do Dashboard 2 conforme `app.py`: navegação horizontal por `st.radio`, filtros, três KPIs e três gráficos Altair. Formato/caminho solicitado na página 17 do PDF da Aula 22. | Entrega solicitada |
+| `rascunho-dashboard2.png` | Versão PNG preservada, com o mesmo conteúdo visual do wireframe JPG. | Cópia preservada |
+| `justificativa-metricas.md` | Fórmulas, resultados, denominadores, interpretação, público e limitações das cinco métricas do Dashboard 2. | Atual |
 
-- [ ] `rascunho-dashboard1.jpg`/`.png`
+O wireframe atual do Dashboard 1 foi produzido depois da implementação para representar fielmente a interface vigente. Ele é o esboço atualizado da entrega, mas não comprova a sequência original de desenhar antes de codificar; a declaração de uso de IA registra essa cronologia. O wireframe do Dashboard 2 foi atualizado para acompanhar o app e convertido para o JPG solicitado, sem redesenho; o PNG original permanece preservado.
 
-## Checklist — Aula 22
+## Imagens históricas de Dashboard 1
 
-- [ ] `rascunho-dashboard2.jpg`/`.png`
-- [ ] `justificativa-metricas.md` preenchido (não só criado vazio)
+- `rascunho_dashboard1.png` (underscore): esboço anterior à implementação completa; contém componentes que já não correspondem ao app. Preservado para histórico, não é o wireframe atual.
+- `prof_rascunho_dashboard1.png`: referência visual genérica. Sua autoria não é atribuída aqui, pois não há evidência suficiente. Não representa a implementação atual.
 
-## Checklist — entrega final (Aula 23)
+## Checklist da Entrega 2
 
-- [ ] Os dois rascunhos
-- [ ] `justificativa-metricas.md` completo
+- [x] Wireframe atual do Dashboard 1 (`rascunho-dashboard1.png`).
+- [x] Wireframe atual do Dashboard 2 no formato/caminho solicitado (`rascunho-dashboard2.jpg`); versão PNG preservada.
+- [x] Justificativa das cinco métricas com fórmulas, resultados, denominadores, públicos, decisões apoiadas e ressalvas.
+- [x] Wireframes coerentes com a implementação, incluindo os estados e limites descritos nos próprios desenhos.
 
-## Modelo de `justificativa-metricas.md`
+## EDA e dados associados
 
-Cada métrica indica **a variável** a que se refere, **o que mede**, **por que foi escolhida** e **o que comunica** a um público que não precisa captar as nuances da variável.
+A EDA original de cosméticos da Aula 11 está em `../notebooks/EDA_prática.ipynb`. `../notebooks/eda.ipynb` é o fluxo de trabalho que prepara os dados usados pelo aplicativo e também reúne análises exploratórias das métricas do Dashboard 2: presença por varejista, marcas presentes em uma ou mais redes, marcas presentes em duas ou mais redes, o KPI `All_vegan` e sua variação entre coortes de `Bad_parent_company`, além da comparação descritiva por `Black_owned`. As novas células incluem tabelas e gráficos preliminares; as análises anteriores foram preservadas. A justificativa das métricas contém as fórmulas e interpretações detalhadas. `../notebooks/arquivo-eda-original.ipynb` e `../notebooks/eda-com-downloads.ipynb` são materiais didáticos Heart Disease/UCI, não a EDA de cosméticos; eles e `EDA_prática.ipynb` foram preservados.
 
-```markdown
-# Justificativa das métricas — Dashboard 2
-
-## Métrica 1: <nome>
-- **Variável:**
-- **O que mede:**
-- **Por que foi escolhida:**
-- **O que comunica ao público-alvo:**
-```
-
-### Exemplo preenchido
-
-```markdown
-## Métrica: Distribuição do colesterol em relação à mediana
-- **Variável:** `chol` (colesterol sérico, mg/dl)
-- **O que mede:** a proporção de pessoas da amostra abaixo, em torno e acima da mediana de `chol`,
-  junto de algumas estatísticas descritivas (média, mediana, mínimo, máximo, desvio padrão).
-  "Em torno" = dentro de ±10% da mediana (defina e explicite a faixa que você usar).
-- **Por que foi escolhida:** dá uma visão simplificada e direta da variável, sem exigir leitura
-  de histograma ou boxplot.
-- **O que comunica ao público-alvo:** como está distribuída a amostra de forma resumida
-  (ex.: "metade das pessoas está acima de X mg/dl"), para quem não consegue captar as
-  nuances da variável.
-```
+O app requer `data/clean/cf_products_with_retailers.csv`, que não acompanha esta entrega no Git enquanto a licença e a autorização de redistribuição não estiverem confirmadas. Consulte o [README principal](../README.md) para obter e preparar uma cópia local. Um clone sem esse arquivo não executa o app até que os dados sejam disponibilizados por um meio aprovado.

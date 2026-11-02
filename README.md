@@ -4,8 +4,8 @@ Repositório utilizado para aula prática relacionada a Streamlit na disciplina 
 
 Repositório-modelo das Aulas 21, 22 e 23: construção de dois dashboards em Streamlit a partir da EDA desenvolvida em sala. O deploy dos dashboards ocorrerá via Streamlit Community Cloud e serão os seguintes:
 
-- Dashboard 1 = correlação + distribuição das variáveis quantitativas
-- Dashboard 2 = KPIs
+- Dashboard 1 = heatmap de correlação, histogramas das variáveis quantitativas e frequência de marcas por `total_retailers`
+- Dashboard 2 = KPIs, presença por rede, distribuição por quantidade de redes e comparação descritiva por `Black_owned`
 
 ## Setup
 
@@ -30,18 +30,15 @@ Se você tem várias versões instaladas, escolha uma compatível, por exemplo `
 
 Com o ambiente ativo, o terminal mostra `(.venv)` no início da linha. **A partir daqui os comandos são iguais em todos os sistemas**, porque dentro do venv `python` e `pip` sempre existem.
 
-### 2. Instalar, configurar a IA e rodar
+### 2. Instalar e executar
 
 ```bash
 python -m pip install -r requirements.txt
-
-# Skills de IA do Streamlit (ver seção "IA neste projeto")
-streamlit skills --yes
-
 streamlit run app.py
 ```
 
 Antes de executar o aplicativo, obtenha e prepare o dataset conforme a seção [Dados usados pelo aplicativo](#dados-usados-pelo-aplicativo).
+O comando `streamlit skills --yes`, descrito em “IA neste projeto”, é opcional e não é necessário para executar o aplicativo.
 
 ### Problemas comuns
 
@@ -51,7 +48,7 @@ Antes de executar o aplicativo, obtenha e prepare o dataset conforme a seção [
 - **Python fora de 3.11–3.15:** instale uma versão compatível em [python.org](https://www.python.org/downloads/) e crie o venv com ela, como no exemplo acima.
 - **Apareceu `ModuleNotFoundError` ou `streamlit: command not found`:** o venv provavelmente não está ativo. Ative de novo e confira o `(.venv)` no prompt.
 - **Erro de certificado no `pip install` (macOS, Python do python.org):** rode `Install Certificates.command`, na pasta Python 3.X em Aplicativos.
-- **`DatasetNotFoundError` ao baixar o dataset no notebook (macOS, Python do python.org):** é o mesmo problema de certificado SSL (o `pandas` não consegue ler o CSV da UCI). Rode `Install Certificates.command` e reinicie o kernel. O notebook `eda-com-downloads.ipynb` já define `SSL_CERT_FILE` com o `certifi` como contorno.
+- **`DatasetNotFoundError` ao baixar o exemplo Heart Disease/UCI no notebook `eda-com-downloads.ipynb` (macOS, Python do python.org):** é o mesmo problema de certificado SSL. Rode `Install Certificates.command` e reinicie o kernel. Esse notebook é um exemplo didático separado e não prepara o dataset de cosméticos usado pelo app.
 
 ## Estrutura de dados: `data/raw` vs `data/clean`
 
@@ -69,17 +66,35 @@ Antes de executar o aplicativo, obtenha e prepare o dataset conforme a seção [
 
 O aplicativo utiliza o dataset **Cruelty Free Brands**, publicado por **mhapich** no [Kaggle](https://www.kaggle.com/datasets/mhapich/crueltyfree-brands). A licença e a autorização para redistribuir o arquivo preparado ainda não foram confirmadas. Por precaução, `data/clean/cf_products_with_retailers.csv` não é incluído no repositório; isso não significa que a licença proíba sua redistribuição.
 
+O arquivo local `data/clean/dataset.csv`, quando presente, corresponde ao exemplo Heart Disease/UCI e não é usado pelo app. Não o use como substituto do dataset de cosméticos nem o publique como dado desta aplicação.
+
 Para executar o projeto em outro clone, obtenha os dados na fonte original e disponibilize um CSV preparado e compatível com o aplicativo neste caminho:
 
 ```text
 data/clean/cf_products_with_retailers.csv
 ```
 
-O notebook `notebooks/eda.ipynb` lê a entrada local `data/raw/cf_products_with_retailers.csv` e exporta o dataset tratado para o caminho acima. Se o arquivo de origem obtido não for compatível com as colunas esperadas pelo notebook, prepare um CSV equivalente antes de iniciar o app. Sem `data/clean/cf_products_with_retailers.csv`, o carregador não consegue ler os dados e o aplicativo não funciona. Como o arquivo não está no GitHub, um deploy no Streamlit Community Cloud também precisará de uma forma aprovada de disponibilizar esses dados em tempo de execução.
+Para preparar uma cópia local:
+
+1. Obtenha o CSV na fonte indicada, observando os termos aplicáveis, e coloque-o em `data/raw/cf_products_with_retailers.csv`.
+2. Execute as células de `notebooks/eda.ipynb` na ordem, a partir da raiz do projeto ou de `notebooks/`. O notebook valida e trata os dados e exporta `data/clean/cf_products_with_retailers.csv`.
+3. Ative o ambiente virtual, instale `requirements.txt` e execute `streamlit run app.py`.
+
+### Função dos notebooks
+
+- `notebooks/EDA_prática.ipynb` é a EDA original de cosméticos produzida para a Aula 11.
+- `notebooks/eda.ipynb` é a cópia de trabalho e o fluxo de preparação que valida/trata os dados e exporta o CSV consumido pelo aplicativo.
+- `notebooks/arquivo-eda-original.ipynb` e `notebooks/eda-com-downloads.ipynb` são materiais didáticos de referência sobre Heart Disease/UCI. Eles não são a EDA de cosméticos e não preparam o dataset do app.
+
+`notebooks/eda.ipynb` recebeu complementações exploratórias para as métricas do Dashboard 2 e saídas dessas execuções; as análises anteriores foram preservadas. Os demais notebooks foram preservados. O fluxo de `eda.ipynb` precisa de uma cópia local do arquivo de origem em `data/raw/`; sem os dados de entrada e sem o CSV tratado em `data/clean/cf_products_with_retailers.csv`, não é possível reconstruir ou executar o aplicativo em um clone limpo. A execução local com o CSV disponível foi testada; a execução em clone sem o CSV não é suportada até que seja definida uma forma autorizada de obter os dados. A licença específica e os direitos de redistribuição ainda não foram confirmados.
+
+O arquivo de origem precisa ter as colunas esperadas pelo notebook; se a versão obtida for diferente, não renomeie outro dataset para esse caminho: confirme e prepare uma entrada compatível com o fluxo de cosméticos. Sem `data/clean/cf_products_with_retailers.csv`, o carregador não consegue ler os dados e o aplicativo não funciona. Como o arquivo não está no GitHub, um deploy no Streamlit Community Cloud também precisará de uma forma aprovada de disponibilizá-lo em tempo de execução.
+
+São situações distintas: obter e usar o arquivo localmente continua sujeito aos termos da fonte; colocar o arquivo em um repositório privado ainda o compartilha com os usuários autorizados; publicar no GitHub ou disponibilizar o app publicamente amplia o acesso. Nem acesso privado nem uso acadêmico, por si só, confirmam direitos de redistribuição ou publicação. Confirme a licença específica e, se necessário, obtenha autorização do responsável pela fonte antes de compartilhar dados ou resultados derivados publicamente.
 
 ### Antes de versionar outros dados tratados
 
-- **O dado é público ou pode ser compartilhado?** Se não for claramente público, use um **repositório privado** (o Community Cloud permite conectar repositórios privados ao autorizar o GitHub; confirme na hora do deploy). Nesse caso, dê acesso de leitura ao professor (como colaborador ou pela organização).
+- **A licença permite redistribuição?** Confirme a licença e a autorização antes de incluir o dataset no GitHub, mesmo em um repositório privado. A privacidade do repositório controla quem acessa o conteúdo, mas não concede autorização para redistribuí-lo. Se a autorização continuar pendente, mantenha o CSV fora do Git e combine uma forma aprovada de disponibilizar os dados para avaliação e execução.
 - **Dado sensível** (nomes, CPF, e-mail, telefone, localização exata etc.): remova ou anonimize na EDA, antes de exportar para `data/clean/`. Isso vale mesmo em repositório privado.
 - **Tamanho:** o GitHub rejeita arquivos acima de **100 MB**. Se o CSV tratado for grande, reduza colunas e linhas na EDA ou exporte em Parquet (`df.to_parquet(...)`, exige `pyarrow`).
 - **Revise cada arquivo individualmente:** confirme a origem, licença e necessidade antes de adicioná-lo ao repositório. O CSV do aplicativo citado acima permanece excluído enquanto a redistribuição não for confirmada.
@@ -120,4 +135,4 @@ A pasta [prompts/](prompts) guarda só o que é sobre **uso de IA**: o template 
 
 ## Pasta `entregas/`
 
-A pasta [entregas/](entregas) guarda os artefatos de entrega que não são sobre IA: os rascunhos de layout de cada dashboard (`.jpg` ou `.png`) e a justificativa das métricas do Dashboard 2. Veja [entregas/README.md](entregas/README.md) para o detalhe de cada arquivo e o checklist por aula. Não coloque esses arquivos no `.gitignore`.
+A pasta [entregas/](entregas) guarda os artefatos de entrega que não são sobre IA: `rascunho-dashboard1.png` e `rascunho-dashboard2.png` representam os layouts atuais; `justificativa-metricas.md` documenta as métricas do Dashboard 2. O wireframe atual do Dashboard 1 foi atualizado após a implementação e não comprova que o rascunho precedeu o código. As imagens antigas são preservadas como referências históricas, não como representação da interface atual. Veja [entregas/README.md](entregas/README.md) para o checklist. Não coloque os entregáveis atuais no `.gitignore`.
