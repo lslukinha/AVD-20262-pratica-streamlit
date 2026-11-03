@@ -18,12 +18,12 @@ df = load_data()
 
 VAREJISTAS = ["Ulta", "Sephora", "Beauty_Bay", "Cult_Beauty", "Nordstrom"]
 VARIAVEIS_DISTRIBUICAO = ["total_retailers", "total_retailers_log"]
-COR_FUNDO = "#0e1117"
-COR_SUPERFICIE = "#262730"
-COR_TEXTO = "#fafafa"
-COR_GRADE = "#41444e"
-COR_DESTAQUE = "#c1121f"
-COR_DESTAQUE_CLARO = "#f28482"
+COR_FUNDO = "#F4F7F4"
+COR_SUPERFICIE = "#E2EBE2"
+COR_TEXTO = "#2C3E2C"
+COR_GRADE = "#C7D5C7"
+COR_DESTAQUE = "#8B5A2B"
+COR_DESTAQUE_CLARO = "#B9895B"
 ROTULOS_VAREJISTAS = {
     "Ulta": "Ulta",
     "Sephora": "Sephora",
@@ -200,7 +200,7 @@ if dashboard_ativo == OPCOES_DASHBOARD[0]:
             cbar_kws={"label": "Correlação de Spearman"},
         )
         for texto, valor in zip(ax.texts, correlacao.to_numpy().flatten()):
-            texto.set_color(COR_TEXTO if abs(valor) >= 0.55 else COR_FUNDO)
+            texto.set_color(COR_TEXTO)
             texto.set_fontweight("bold")
         ax.set_title("Correlação de Spearman", color=COR_TEXTO, pad=12)
         ax.tick_params(axis="both", colors=COR_TEXTO)

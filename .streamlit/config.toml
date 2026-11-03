@@ -1,8 +1,8 @@
-# Tema escuro compatível com a versão mínima declarada do Streamlit (1.50).
+# Paleta suave em verde claro e marrom terroso.
 [theme]
-base = "dark"
-primaryColor = "#c1121f"
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#262730"
-textColor = "#fafafa"
-borderColor = "#41444e"
+base = "light"
+primaryColor = "#8B5A2B"
+backgroundColor = "#F4F7F4"
+secondaryBackgroundColor = "#E2EBE2"
+textColor = "#2C3E2C"
+borderColor = "#C7D5C7"
